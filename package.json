@@ -1,0 +1,14 @@
+{
+  "name": "sobre-modulos",
+  "version": "1.0.0",
+  "description": "About modules exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Glauber Marques",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
